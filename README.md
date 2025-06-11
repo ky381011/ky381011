@@ -1,17 +1,22 @@
 ## Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ky381011&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ky381011&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)  
 
-> [!NOTE]  
+
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
 
 > [!TIP]
+> Helpful advice for doing things better or more easily.
 
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
 
-> [!IMPORTANT]  
-
-> [!WARNING]  
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
 
 > [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
 
 
 <!--
